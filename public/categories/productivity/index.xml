@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>productivity on limitexception.com</title>
+    <link>/categories/productivity/</link>
+    <description>Recent content in productivity on limitexception.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 11 Oct 2020 03:44:46 +0000</lastBuildDate><atom:link href="/categories/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Protonmail - A Review</title>
+      <link>/protonmail/</link>
+      <pubDate>Sun, 11 Oct 2020 03:44:46 +0000</pubDate>
+      
+      <guid>/protonmail/</guid>
+      <description>As part of my new personal tech stack I&amp;rsquo;ve switched my personal email from Gmail to Protonmail, I thought I&amp;rsquo;d outline a few impressions after a few weeks of usage.
+What is Protonmail? Protonmail offers &amp;lsquo;secure&amp;rsquo; email, in that its hosted in Switzerland, and uses &amp;lsquo;zero access&amp;rsquo; encryption to protect my mail. What this means is that my email is held at rest in an encrypted form (like Salesforce Platform Encryption), and it only decrypted when it is accessed with my customer specific encryption key.</description>
+    </item>
+    
+    <item>
+      <title>Doing the work…</title>
+      <link>/doing-the-work/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/doing-the-work/</guid>
+      <description>Sometimes I need to remind myself that organising oneself isn’t a replacement for doing the work.</description>
+    </item>
+    
+    <item>
+      <title>Digital Hygiene</title>
+      <link>/digital-hygiene/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/digital-hygiene/</guid>
+      <description>One of the things I’ve been trying to do during my annual holiday and into the new year is work on my digital hygiene. That is, as part of…</description>
+    </item>
+    
+    <item>
+      <title>Getting the noise under control…</title>
+      <link>/getting-the-noise-under-control/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/getting-the-noise-under-control/</guid>
+      <description>Yes, its one of those Medium posts about organising one&amp;rsquo;s self for minimum distraction. Note that I said ‘minimum distraction’, not…</description>
+    </item>
+    
+    <item>
+      <title>Stolen Moments</title>
+      <link>/stolen-moments/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/stolen-moments/</guid>
+      <description>I’m easily distracted.</description>
+    </item>
+    
+    <item>
+      <title>Why I didn’t give up some app on my iPhone.</title>
+      <link>/why-i-didn-t-give-up-some-app-on-my-iphone/</link>
+      <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/why-i-didn-t-give-up-some-app-on-my-iphone/</guid>
+      <description>It’s quite popular to write a blog post with a headline like ‘why I gave up &amp;lt;app name’, as though the app itself was something akin to…</description>
+    </item>
+    
+  </channel>
+</rss>

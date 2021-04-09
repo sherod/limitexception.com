@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>developer on limitexception.com</title>
+    <link>/tags/developer/</link>
+    <description>Recent content in developer on limitexception.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/developer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are we nearing the end of the ‘Full Stack’ Salesforce Developer?</title>
+      <link>/are-we-nearing-the-end-of-the-full-stack-salesforce-developer/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/are-we-nearing-the-end-of-the-full-stack-salesforce-developer/</guid>
+      <description>Anyone who works in the Salesforce ecosystem is familiar with the traditional role breakdown that Salesforce portrays in its marketing and…</description>
+    </item>
+    
+    <item>
+      <title>Running the Force.com CLI and PMD for a quick quality check</title>
+      <link>/running-the-force-com-cli-and-pmd-for-a-quick-quality-check/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/running-the-force-com-cli-and-pmd-for-a-quick-quality-check/</guid>
+      <description>Install the force.com CLI, confirm it runs from your current working directory by running ‘force’</description>
+    </item>
+    
+    <item>
+      <title>Salesforce Platform Events, a quick dive into EventBus.RetryableException</title>
+      <link>/salesforce-platform-events-a-quick-dive-into-eventbus-retryableexception/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/salesforce-platform-events-a-quick-dive-into-eventbus-retryableexception/</guid>
+      <description>In Summer 17 Salesforce release the beta of what was, for me, a much awaited feature — Platform Events.</description>
+    </item>
+    
+  </channel>
+</rss>

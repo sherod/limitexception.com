@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>architecture on limitexception.com</title>
+    <link>/tags/architecture/</link>
+    <description>Recent content in architecture on limitexception.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another 7 habits for developing a Technical Architect Mindset</title>
+      <link>/another-7-habits-for-developing-a-technical-architect-mindset/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/another-7-habits-for-developing-a-technical-architect-mindset/</guid>
+      <description>Decisions are not dichotomies of either/or.
+It’s not clicks or code, its clicks and code, or clicks at first, and then replacement with…</description>
+    </item>
+    
+    <item>
+      <title>‘Hot’ objects — Salesforce at Scale</title>
+      <link>/hot-objects-salesforce-at-scale/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/hot-objects-salesforce-at-scale/</guid>
+      <description>Every large scale Salesforce instance has certain objects in its data model which are heavily utilized.
+Such ‘heavy’ utilization has several forms. It may involve a considerable number of fields (&amp;gt; 500 plus), a large number of records (tens of millions), or a large amount of automation (Process Builder, Triggers, etc).
+These objects are problematic in that in interacting with them is inherently challenging. Changes to the manner in which they are accessed (i.</description>
+    </item>
+    
+    <item>
+      <title>Principles of Architecture</title>
+      <link>/principles-of-architecture/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/principles-of-architecture/</guid>
+      <description>At Forcelandia 2017 I gave my perspective on Software Architecture, I gave the same presentation at Down Under Dreaming — Sydney 2017 and…</description>
+    </item>
+    
+    <item>
+      <title>Salesforce Platform Events, a quick dive into EventBus.RetryableException</title>
+      <link>/salesforce-platform-events-a-quick-dive-into-eventbus-retryableexception/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/salesforce-platform-events-a-quick-dive-into-eventbus-retryableexception/</guid>
+      <description>In Summer 17 Salesforce release the beta of what was, for me, a much awaited feature — Platform Events.</description>
+    </item>
+    
+  </channel>
+</rss>

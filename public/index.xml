@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>limitexception.com</title>
+    <link>/</link>
+    <description>Recent content on limitexception.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 05 Dec 2020 05:46:55 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dreamforce 2020 Wrap</title>
+      <link>/dreamforce-2020-wrap/</link>
+      <pubDate>Sat, 05 Dec 2020 05:46:55 +0000</pubDate>
+      
+      <guid>/dreamforce-2020-wrap/</guid>
+      <description>The uniqueness of 2020 was made complete with Salesforce&amp;rsquo;s annual conference pivoting from its usual 180,000 visitors at Moscone to an online video broadcast, live from Salesforce Park next to Salesforce Tower in San Francisco.
+But no reshaping of the event could be as dramatic as some of the announcements, which were more seismic than the last few years combined.
+The Purchase of Slack At 27 Billion dollars, Slack represents a little over 10% of Salesforce&amp;rsquo;s Market Capitalization and demonstrates Salesforce&amp;rsquo;s continuing appetite to make big bets on the technologies it believes are key.</description>
+    </item>
+    
+    <item>
+      <title>Protonmail - A Review</title>
+      <link>/protonmail/</link>
+      <pubDate>Sun, 11 Oct 2020 03:44:46 +0000</pubDate>
+      
+      <guid>/protonmail/</guid>
+      <description>As part of my new personal tech stack I&amp;rsquo;ve switched my personal email from Gmail to Protonmail, I thought I&amp;rsquo;d outline a few impressions after a few weeks of usage.
+What is Protonmail? Protonmail offers &amp;lsquo;secure&amp;rsquo; email, in that its hosted in Switzerland, and uses &amp;lsquo;zero access&amp;rsquo; encryption to protect my mail. What this means is that my email is held at rest in an encrypted form (like Salesforce Platform Encryption), and it only decrypted when it is accessed with my customer specific encryption key.</description>
+    </item>
+    
+    <item>
+      <title>Professional Development with AWS</title>
+      <link>/using-aws-for-personal-networking/</link>
+      <pubDate>Thu, 01 Oct 2020 13:13:11 +0000</pubDate>
+      
+      <guid>/using-aws-for-personal-networking/</guid>
+      <description>The History For 21 years I&amp;rsquo;ve hosted my personal website and miscellaneous experiments on Dreamhost.
+Dreamhost was where I first setup my website. My sites and content there have survived countless life milestones. I started out hosting private projects in HTML built in Microsoft Frontpage, HotDog, Macromedia Dreamweaver. From then I moved on to teaching myself PHP, building basic content management systems before the days of Wordpress.
+For many, many years it languished.</description>
+    </item>
+    
+    <item>
+      <title>A little bit more about...</title>
+      <link>/about/</link>
+      <pubDate>Sun, 27 Sep 2020 01:56:11 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>the blog LimitException started back in 2011, about a year into my Salesforce journey.
+The title makes reference to a type of exception thrown by Apex in the Salesforce core platform. When you reach one of the governor limits, you&amp;rsquo;ll get a &amp;lsquo;LimitException&amp;rsquo;, and you&amp;rsquo;ll have to find another way :)
+At the time I created this blog I was day to day developing on the Platform and it seemed like a playful name for a blog as I described my experiences.</description>
+    </item>
+    
+    <item>
+      <title>Doing the work…</title>
+      <link>/doing-the-work/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/doing-the-work/</guid>
+      <description>Sometimes I need to remind myself that organising oneself isn’t a replacement for doing the work.</description>
+    </item>
+    
+    <item>
+      <title>Digital Hygiene</title>
+      <link>/digital-hygiene/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/digital-hygiene/</guid>
+      <description>One of the things I’ve been trying to do during my annual holiday and into the new year is work on my digital hygiene. That is, as part of…</description>
+    </item>
+    
+    <item>
+      <title>Another 7 habits for developing a Technical Architect Mindset</title>
+      <link>/another-7-habits-for-developing-a-technical-architect-mindset/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/another-7-habits-for-developing-a-technical-architect-mindset/</guid>
+      <description>Decisions are not dichotomies of either/or.
+It’s not clicks or code, its clicks and code, or clicks at first, and then replacement with…</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Getting the noise under control…</title>
+      <link>/getting-the-noise-under-control/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/getting-the-noise-under-control/</guid>
+      <description>Yes, its one of those Medium posts about organising one&amp;rsquo;s self for minimum distraction. Note that I said ‘minimum distraction’, not…</description>
+    </item>
+    
+    <item>
+      <title>‘Hot’ objects — Salesforce at Scale</title>
+      <link>/hot-objects-salesforce-at-scale/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/hot-objects-salesforce-at-scale/</guid>
+      <description>Every large scale Salesforce instance has certain objects in its data model which are heavily utilized.
+Such ‘heavy’ utilization has several forms. It may involve a considerable number of fields (&amp;gt; 500 plus), a large number of records (tens of millions), or a large amount of automation (Process Builder, Triggers, etc).
+These objects are problematic in that in interacting with them is inherently challenging. Changes to the manner in which they are accessed (i.</description>
+    </item>
+    
+    <item>
+      <title>Principles of Architecture</title>
+      <link>/principles-of-architecture/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/principles-of-architecture/</guid>
+      <description>At Forcelandia 2017 I gave my perspective on Software Architecture, I gave the same presentation at Down Under Dreaming — Sydney 2017 and…</description>
+    </item>
+    
+    <item>
+      <title>Are we nearing the end of the ‘Full Stack’ Salesforce Developer?</title>
+      <link>/are-we-nearing-the-end-of-the-full-stack-salesforce-developer/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/are-we-nearing-the-end-of-the-full-stack-salesforce-developer/</guid>
+      <description>Anyone who works in the Salesforce ecosystem is familiar with the traditional role breakdown that Salesforce portrays in its marketing and…</description>
+    </item>
+    
+    <item>
+      <title>Stolen Moments</title>
+      <link>/stolen-moments/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/stolen-moments/</guid>
+      <description>I’m easily distracted.</description>
+    </item>
+    
+    <item>
+      <title>Why I didn’t give up some app on my iPhone.</title>
+      <link>/why-i-didn-t-give-up-some-app-on-my-iphone/</link>
+      <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/why-i-didn-t-give-up-some-app-on-my-iphone/</guid>
+      <description>It’s quite popular to write a blog post with a headline like ‘why I gave up &amp;lt;app name’, as though the app itself was something akin to…</description>
+    </item>
+    
+    <item>
+      <title>Running the Force.com CLI and PMD for a quick quality check</title>
+      <link>/running-the-force-com-cli-and-pmd-for-a-quick-quality-check/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/running-the-force-com-cli-and-pmd-for-a-quick-quality-check/</guid>
+      <description>Install the force.com CLI, confirm it runs from your current working directory by running ‘force’</description>
+    </item>
+    
+    <item>
+      <title>Forcelandia 2017</title>
+      <link>/forcelandia-2017/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/forcelandia-2017/</guid>
+      <description>I’ve wanted to visit Portland for some time, for no specific reason apart from the fact I really do love the Pacific North West of the…</description>
+    </item>
+    
+    <item>
+      <title>Mass Unfollowing People on LinkedIn</title>
+      <link>/mass-unfollowing-people-on-linkedin/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/mass-unfollowing-people-on-linkedin/</guid>
+      <description>I’m a believer in LinkedIn. I find it useful on a personal and professional level and I have viewed it as a useful newsfeed over many…</description>
+    </item>
+    
+    <item>
+      <title>Salesforce Platform Events, a quick dive into EventBus.RetryableException</title>
+      <link>/salesforce-platform-events-a-quick-dive-into-eventbus-retryableexception/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/salesforce-platform-events-a-quick-dive-into-eventbus-retryableexception/</guid>
+      <description>In Summer 17 Salesforce release the beta of what was, for me, a much awaited feature — Platform Events.</description>
+    </item>
+    
+    <item>
+      <title>Virtual or Augmented Reality, which tech is the future?</title>
+      <link>/virtual-or-augmented-reality-which-tech-is-the-future/</link>
+      <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/virtual-or-augmented-reality-which-tech-is-the-future/</guid>
+      <description>On a recent visit to Melbourne I had the opportunity to participate in one of Accenture’s regular innovation showcases. Two of the elements…</description>
+    </item>
+    
+    <item>
+      <title>A short technology map of the Salesforce Ecosystem</title>
+      <link>/a-short-technology-map-of-the-salesforce-ecosystem/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/a-short-technology-map-of-the-salesforce-ecosystem/</guid>
+      <description>This is far from complete, but its been sitting in LucidChart for a couple of years so I may as well publish it, follow the nodes to…</description>
+    </item>
+    
+    <item>
+      <title>Why you won’t find any Salesforce Interview Questions (with Answers) here.</title>
+      <link>/why-you-won-t-find-any-salesforce-interview-questions-with-answers-here/</link>
+      <pubDate>Sun, 04 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/why-you-won-t-find-any-salesforce-interview-questions-with-answers-here/</guid>
+      <description>Ideally a job interview is an opportunity for you to demonstrate your knowledge and to convince your prospective employer you have the right attitude, the right knowledge and the right experience to fulfill their requirements.
+One hopes that each new position should be some kind of advancement, either in salary or responsibility (or ideally both).
+Naturally there is competition in this process from other candidates, this competition and your own internal doubt can and should drive you to prepare for an interview so you can present your best self when the time comes.</description>
+    </item>
+    
+    <item>
+      <title>URL Rewriting on Force.com Sites and Visualforce Communities</title>
+      <link>/url-rewriting-on-force-com-sites-and-visualforce-communities/</link>
+      <pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/url-rewriting-on-force-com-sites-and-visualforce-communities/</guid>
+      <description>Salesforce has for some years supported URL Rewriting to allow friendly URLs in force.com sites and Visualforce communities, that is, instead of ‘https://community.example.com/apex/Page?id=a000000000001&#39; you can have friendly URL like ‘https://community.example.com/product/acme-best-chicken-gravy&#39;.
+It’s also essential to note that when you create a Visualforce/Tab community the standard Salesforce UI still lurks beneath your custom User Interface, so make sure your Profile security is 100% correct, additionally this advice is only applicable to Visualforce based Communities, URL rewriting is not available using the Lightning Community Templates.</description>
+    </item>
+    
+    <item>
+      <title>If you do these 6 things in Apex then nobody dies.</title>
+      <link>/if-you-do-these-6-things-in-apex-then-nobody-dies/</link>
+      <pubDate>Sun, 29 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/if-you-do-these-6-things-in-apex-then-nobody-dies/</guid>
+      <description>There is a lot of advice in programmer land, advice that often mixes mandatory practices with suggestions that are ‘good to do’.
+Translated outside of programming, these lists often look like:
+ Call your mother.Obviously good advice and all of us who can should do that, but if you don’t you aren’t going to die (Although you may want to if she calls). Don’t eat saturated fatsAlso good advice, but the affect is not immediately obvious and its only over many years you may find it a problem Do not attempt to cut your toe nails with a chainsaw.</description>
+    </item>
+    
+    <item>
+      <title>I’ve moved back to Windows from Mac….</title>
+      <link>/i-ve-moved-back-to-windows-from-mac/</link>
+      <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/i-ve-moved-back-to-windows-from-mac/</guid>
+      <description>Yes, its one of those ‘why I left my operating system’ blog posts.
+I’ve been a Mac user for over 9 years, apart from a short period about two years ago when I used a Surface Pro 2 over a few months before handing it over to my better half. My first mac I obtained shortly before my son was born, another I purchased 3 years later, my final two I’ve been lucky enough to have obtained via work.</description>
+    </item>
+    
+    <item>
+      <title>Hanging up my Salesforce MVP bag….</title>
+      <link>/hanging-up-my-salesforce-mvp-bag/</link>
+      <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/hanging-up-my-salesforce-mvp-bag/</guid>
+      <description>3 years ago I woke up to an email letting me know that I’d been selected to be a Salesforce MVP. I was, and still am, surprised and flattered by the recognition. For the past 3 years I’ve been proud to help represent the community.
+Time marches on and everything that begins must end so this week I informed Salesforce that I’ve chosen to step down from the program.
+There isn’t one specific reason for this, it’s more a collection of reasons that cross the personal and professional spectrum.</description>
+    </item>
+    
+    <item>
+      <title>How to get me to hire you.</title>
+      <link>/how-to-get-me-to-hire-you/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-get-me-to-hire-you/</guid>
+      <description>People who stand out tend to show the following criteria:
+ Intelligence, curiosity and a track record of learning and adapting. Enthusiasm for technology and for being able to use it to solve real world problems. Excellent communication skills, i.e being able to write well, speak confidently and explain concepts clearly. Mastery of the area of competence you claim to have. (If you rate yourself a 10 out of 10, you better wow me!</description>
+    </item>
+    
+    <item>
+      <title>Beyond Trailhead: Becoming a better coder.</title>
+      <link>/beyond-trailhead-becoming-a-better-coder/</link>
+      <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/beyond-trailhead-becoming-a-better-coder/</guid>
+      <description>Since the release of Salesforce’s Trailhead (A set of learning resources for budding force.com developers) I’ve had a number of people ask me ‘I’ve done Trailhead… what should I next?’
+Here’s my answer!
+Code The number 1 thing you can do to improve your skills is to practise them. Coding is no different to any other form of practice, the more you code the better you become.
+But what do you code?</description>
+    </item>
+    
+    <item>
+      <title>Does clicking an attachment in Service Console Case Feed not work?</title>
+      <link>/does-clicking-an-attachment-in-service-console-case-feed-not-work/</link>
+      <pubDate>Sat, 13 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/does-clicking-an-attachment-in-service-console-case-feed-not-work/</guid>
+      <description>If you are currently experiencing the following problem:
+ You have Enabled ‘My Domain’ You are using the Service Console You have turned on Case Feed You are using its ‘Compact Layout’ feature  And
+ Clicking on email attachments in the case feed results in nothing happening.  Then you might think you are experiencing this ‘Known Issue’: I know I did.
+Turns out this appears to be an issue with configuration that doesn’t happen automatically.</description>
+    </item>
+    
+    <item>
+      <title>Dreamforce tips in 3 bullet points</title>
+      <link>/dreamforce-tips-in-3-bullet-points/</link>
+      <pubDate>Thu, 18 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/dreamforce-tips-in-3-bullet-points/</guid>
+      <description>Have specific goals for the event.  What can you learn.  Plan your must see events and organise your agenda around those events.  There is SO MUCH on, going in without a game plan will mean you’ll miss everything.  Comfortable shoes and some painkillers.  You’ll do a lot of walking and standing :)  </description>
+    </item>
+    
+    <item>
+      <title>Time based tokens — More secure authentication for your Salesforce org.</title>
+      <link>/time-based-tokens-more-secure-authentication-for-your-salesforce-org/</link>
+      <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/time-based-tokens-more-secure-authentication-for-your-salesforce-org/</guid>
+      <description>[caption id=”attachment_314&amp;quot; align=”alignright” width=”170&amp;quot;]
+  Salesforce# app showing the random generated keys for two different Salesforce orgs and the countdown.[/caption]
+Salesforce prides itself on the attention it pays to securing the platforms on which your Salesforce org sits — but that last mile which is your Salesforce org is in the hands of you and whomever you share your Salesforce administration duties with.
+There are many, many facets to securing your Salesforce org, this blog post will cover only one aspect, a feature which arrived in the recent past but which I have seen few people adopt despite its benefits, that of ‘Time based tokens’ or ‘Two Factor authentication’ (2FA for short).</description>
+    </item>
+    
+    <item>
+      <title>Book Review: Force.com Development Blueprints</title>
+      <link>/book-review-force-com-development-blueprints/</link>
+      <pubDate>Sun, 29 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/book-review-force-com-development-blueprints/</guid>
+      <description>I picked up a copy of ‘Force.com Development Blueprints’ on Friday and I wanted to share some of my first impressions.
+  The book contains five blueprints:
+ Building a Salesforce community An online store using Force.com and Heroku A traditional CRM application A reporting system with custom dashboards A Force.com Mobile SDK application using Android and Microsoft Azure!  The first thing that surprised me was the technical breadth of the book, it’s not often you find one text that touches on Force.</description>
+    </item>
+    
+    <item>
+      <title>Thinking about your Salesforce Org from an Architect’s perspective</title>
+      <link>/thinking-about-your-salesforce-org-from-an-architect-s-perspective/</link>
+      <pubDate>Tue, 13 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/thinking-about-your-salesforce-org-from-an-architect-s-perspective/</guid>
+      <description>A presentation I gave to the San Antonio Salesforce User Group on the topic of thinking about your Salesforce Org from an architectural perspective.[slideshare id=34643261]</description>
+    </item>
+    
+    <item>
+      <title>Visualforce: A Visual Reference Guide.</title>
+      <link>/visualforce-a-visual-reference-guide/</link>
+      <pubDate>Sun, 30 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/visualforce-a-visual-reference-guide/</guid>
+      <description>When I started working with Visualforce I found it quite time consuming to figure out what the various Visualforce tags and their options looked like when actually rendered on the page; I really wished that the tag reference included screenshots.
+So, to help you out, that’s what I have done. I’ve put together some basic Visualforce tags and accompanying screenshots so you can:
+ see what that tag combination looks like flick through the screenshots looking for the UI you need and then check the code sample to see how to create it.</description>
+    </item>
+    
+    <item>
+      <title>URL encoding URLs in a Report.</title>
+      <link>/url-encoding-urls-in-a-report/</link>
+      <pubDate>Fri, 28 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/url-encoding-urls-in-a-report/</guid>
+      <description>Recently I had a slightly interesting requirement.
+A URL field needed to be url encoded so that the report export could be directly imported into another system that couldn’t handle an un-encoded URL.
+I would normally have handled that requirement with a formula field that called the URLENCODE function that you have in Visualforce but it turns out that function isn’t available to you when defining a formula field.
+So I had to resort to this rather terrifying use of the ‘SUBSTITUTE’ function in defining a new formula field.</description>
+    </item>
+    
+    <item>
+      <title>Maintaining your Salesforce Certifications….</title>
+      <link>/maintaining-your-salesforce-certifications/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/maintaining-your-salesforce-certifications/</guid>
+      <description>this content is no longer relevant - please use another source.
+ How do I maintain my certification?  Each track you hold a certification in requires you to undertake maintenance exam each release. [caption id=”attachment_282&amp;quot; align=”alignright” width=”300&amp;quot;]     Click to Enlarge[/caption] The maintenance exam is a simple 15 minute (5–15 question) multiple choice exam booked via Web Assessor and undertaken without a proctor (i.e. at your desk, no supervision)  The Schedule Every 12 months you need to pay a renewal fee to unlock the next 12 months maintenance exams.</description>
+    </item>
+    
+    <item>
+      <title>What is Salesforce1? (in 82 words)</title>
+      <link>/what-is-salesforce1-in-82-words/</link>
+      <pubDate>Wed, 22 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/what-is-salesforce1-in-82-words/</guid>
+      <description>It is the culmination of at least 18 months engineering to put Salesforce on an API and mobile first footing for future development.
+It is a responsive webapp which is also wrapped in a native iOS or Android container and shipped as ‘Salesforce1’ hybrid app.
+It is an umbrella marketing term for the collection Salesforce.com owned platforms. It encompasses the traditional ‘force.com’ platform that Salesforce1 is built on and also the existing non-force.</description>
+    </item>
+    
+    <item>
+      <title>Designing custom REST and SOAP interfaces on Force.com</title>
+      <link>/designing-custom-rest-and-soap-interfaces-on-force-com/</link>
+      <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/designing-custom-rest-and-soap-interfaces-on-force-com/</guid>
+      <description>In lieu of the video appearing on youtube, here are the slides from my Dreamforce presentation.
+[slideshare id=29976436&amp;amp;doc=stevenherodfinal-df1316x9breakoutsessionsv1–140113161934-phpapp01]</description>
+    </item>
+    
+    <item>
+      <title>8 pieces of practical advice for starting your Salesforce.com Career</title>
+      <link>/8-pieces-of-practical-advice-for-starting-your-salesforce-com-career/</link>
+      <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/8-pieces-of-practical-advice-for-starting-your-salesforce-com-career/</guid>
+      <description>Thinking of getting into Salesforce.com in the new year? It would be a great time as it has never been busier — Salesforce.com is growing their business over 30% in revenue year on year and this success is flowing into the partner and customer ecosystem; my employer Cloud Sherpas has grown by over 300 staff in 2013 (and we’re still hiring ).
+If you are thinking of jumping in a career here are some practical tips I wish people had told me when I first started out 3.</description>
+    </item>
+    
+    <item>
+      <title>7 Deadly Sins of the Force.com Developer (Told with Memes)</title>
+      <link>/7-deadly-sins-of-the-force-com-developer-told-with-memes/</link>
+      <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/7-deadly-sins-of-the-force-com-developer-told-with-memes/</guid>
+      <description>I thought this would be a fun way to get a few points across so I put this together some feedback from colleagues.
+Each slide links to a background or more detail.
+                   Project Feedback https://twitter.com/JointDestroyer/status/345494793905905665A quote from Lt. Gen. David Morrison regarding sexual harassment, an important office, but the quote summarises an excellent personal ethos.</description>
+    </item>
+    
+    <item>
+      <title>SSFDUG Presentation — Dreamforce 2013 for Developers</title>
+      <link>/ssfdug-presentation-dreamforce-2013-for-developers/</link>
+      <pubDate>Sun, 15 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/ssfdug-presentation-dreamforce-2013-for-developers/</guid>
+      <description>It does lose something without the narration but I’m posting it for posterity.</description>
+    </item>
+    
+    <item>
+      <title>Understanding the Sandbox Preview Window and Salesforce Release Cycle</title>
+      <link>/understanding-the-sandbox-preview-window-and-salesforce-release-cycle/</link>
+      <pubDate>Tue, 26 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/understanding-the-sandbox-preview-window-and-salesforce-release-cycle/</guid>
+      <description>Another month rolls around and its time for yet another Salesforce release Preview Window…. this time for Spring ‘14.
+Understanding the release windows and how they work can take a little bit of effort to get your head around. You can find Salesforce’s explanation here, but what follows is my visual representation.
+The lead up to a release for both Sandboxes and Production Orgs   How to decide what you should do   I haven’t listed the Sandboxes here, you should refer to the official Salesforce blog for the list of Sandboxes which are targeted for Pre-Release updates.</description>
+    </item>
+    
+    <item>
+      <title>My review of ‘Visualforce Development Cookbook’ by Keir Bowden</title>
+      <link>/my-review-of-visualforce-development-cookbook-by-keir-bowden/</link>
+      <pubDate>Sun, 03 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/my-review-of-visualforce-development-cookbook-by-keir-bowden/</guid>
+      <description>Early in my time with with Salesforce I found the blog of Keir Bowden (Aka ‘Bob Buzzard’) and his list of Salesforce qualifications (all of them) and set it as a benchmark for myself to try to achieve.
+I got the chance to meet him at the MVP summit and he turns out to be a great guy to boot, so I was pleased to find Keir and Packt Publishing have been busy preparing a book in time for Dreamforce called ‘Visualforce Development Cookbook’.</description>
+    </item>
+    
+    <item>
+      <title>Visualforce tip — mode = ‘edit’</title>
+      <link>/visualforce-tip-mode-edit/</link>
+      <pubDate>Tue, 10 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/visualforce-tip-mode-edit/</guid>
+      <description>Quick trivial reminder about a small attribute that has quite a visual impact on how your edit page looks in Salesforce / Visualforce
+With
+&amp;lt;apex:pageBlock title=&amp;quot;Site Certification Standard Edit&amp;quot; mode=&amp;quot;edit&amp;quot;&amp;gt; Without
+&amp;lt;apex:pageBlock title=&amp;quot;Site Certification Standard Edit”&amp;gt; As you can see, the page looks more like the normal Salesforce edit layout, complete with the ‘Red bar’ hint.</description>
+    </item>
+    
+    <item>
+      <title>Salesforce.com MVP Summit — A thank you.</title>
+      <link>/salesforce-com-mvp-summit-a-thank-you/</link>
+      <pubDate>Fri, 30 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/salesforce-com-mvp-summit-a-thank-you/</guid>
+      <description>Three years ago I said ‘yes’ to an opportunity to start working with Salesforce. I made a conscious decision to the throw myself into thoroughly understanding the product and its technology.
+It was soon after starting that journey that I discovered Salesforce is as much a community as it is a product or a technology platform, one that spans from Melbourne to Newfoundland and from London to Mumbai.
+Nothing has made that more apparent to me than the last couple of days where, as a guest of Salesoforce.</description>
+    </item>
+    
+    <item>
+      <title>Salesforce Standard Object Access by Community or Portal license type</title>
+      <link>/salesforce-standard-object-access-by-community-or-portal-license-type/</link>
+      <pubDate>Tue, 27 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/salesforce-standard-object-access-by-community-or-portal-license-type/</guid>
+      <description>Earlier this year, as part of my Technical Architect certification preparation I wrote a blog article showing the various portal license types and the standard objects they allowed access to.
+In Summer ’13 Salesforce introduced a new product called Salesforce Communities that allows you to expose your Salesforce data to external parties and all in all offers a significant functionality improvement over Portals. Yaron Wilf explores some of the benefits in his blog post on the Cloud Sherpa’s blog.</description>
+    </item>
+    
+    <item>
+      <title>Code Snippet: Generating an Email-to-Case thread id using Apex</title>
+      <link>/code-snippet-generating-an-email-to-case-thread-id-using-apex/</link>
+      <pubDate>Sat, 22 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/code-snippet-generating-an-email-to-case-thread-id-using-apex/</guid>
+      <description>A quick Saturday morning code snippet from something I wrote this week.
+Here’s how to generate an Email-To-Case thread ID for insertion into an email body or subject line.
+You’ll need to pass in the id of the Case you want replies threaded to.
+private String getThreadId(String caseId){ return &#39;[ ref:_&#39; + UserInfo.getOrganizationId().left(4) + &#39;0&#39; + UserInfo.getOrganizationId().mid(11,4) + &#39;._&#39; + caseId.left(4) + &#39;0&#39; + caseId.mid(10,5) + &#39;:ref ]&#39;; } </description>
+    </item>
+    
+    <item>
+      <title>Setting up Debug Log for a Force.com site guest user.</title>
+      <link>/setting-up-debug-log-for-a-force-com-site-guest-user/</link>
+      <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/setting-up-debug-log-for-a-force-com-site-guest-user/</guid>
+      <description>In order to monitor the Guest User accoun in the Debug Log (as shown below)
+  You need to use the Site Name of your Site in the User Search dialog when setting up the debug log (note NOT the Site Label).
+You won’t be able to search for the user using the lookup or use its ‘full name’ which if you notice in the screenshot above is actually ‘Site Guest User, Project Application’</description>
+    </item>
+    
+    <item>
+      <title>Dreamforce 2013 Discount Code: Save $100 using this code!</title>
+      <link>/dreamforce-2013-discount-code-save-100-using-this-code/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/dreamforce-2013-discount-code-save-100-using-this-code/</guid>
+      <description>Dreamforce has moved to November this year (18–21) and if you plan on being there then booking early is a great way to save money.
+Right now you can save $700 by registering prior to June 4 but on top of that (and even after June 4) you can save another $100 by using this discount code when you check out.
+D13MVPREF So, what are you waiting for? Click here to register for Dreamforce!</description>
+    </item>
+    
+    <item>
+      <title>Becoming a Customer Company / We are the makers</title>
+      <link>/becoming-a-customer-company-we-are-the-makers/</link>
+      <pubDate>Tue, 07 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/becoming-a-customer-company-we-are-the-makers/</guid>
+      <description>Salesforce are pretty good at making marketing videos, these are two of my favorites because despite my finely honed sense of cynicism I’m a idealist who loves an uplifing musical score and some well timed words.
+I’ll return to some hard core technical content next time. :)</description>
+    </item>
+    
+    <item>
+      <title>Force.com Canvas</title>
+      <link>/force-com-canvas/</link>
+      <pubDate>Thu, 25 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/force-com-canvas/</guid>
+      <description>With Force.com Canvas going Generally Available in Summer 13 (May-June 2013) I thought it was time to take a look. The presentation used Canvas-PHP by Josh Birk
+Here is the presentation I gave to the Sydney Salesforce Developers User Group on 17 April.
+Force.com Canvas — a Quick Introduction **** from Steven Herod
+If you are in the Sydney area or remote and can teleconference, and you want to present at the Group, please get in touch with me at my email address @.</description>
+    </item>
+    
+    <item>
+      <title>It’s been a big week.</title>
+      <link>/it-s-been-a-big-week/</link>
+      <pubDate>Thu, 11 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/it-s-been-a-big-week/</guid>
+      <description>After a lifetime of being picked last for sporting teams I’ve finally made ‘Most Valued Player’ status in something. :)
+  And I’m proud and excited for it to be what I’ve thrown myself into over the last couple of years (That’s Salesforce incase you didn’t realise).
+I’m still going through all the bits and pieces Salesforce sent me and I’m completely flat out at home and work, but I really wanted to thank Matt Lacey for his support in achieving this.</description>
+    </item>
+    
+    <item>
+      <title>Stronger Authentication for Outbound Messages from Salesforce</title>
+      <link>/stronger-authentication-for-outbound-messages-from-salesforce/</link>
+      <pubDate>Wed, 27 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/stronger-authentication-for-outbound-messages-from-salesforce/</guid>
+      <description>Salesforce offers a couple of mechanisms for securing Outbound messages.
+Obviously the first step is to deploy your consuming web service to an SSL based end point and to use a CA signed certificate for the server.
+You should also consider using your firewall to ensure that access to this endpoint is restricted only to the IP addresses which Salesforce uses for its services.
+Finally you can also challenge Salesforce to provide a Client certificate to authenticate itself.</description>
+    </item>
+    
+    <item>
+      <title>Faking a SF Outbound Message with cURL</title>
+      <link>/faking-a-sf-outbound-message-with-curl/</link>
+      <pubDate>Tue, 19 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/faking-a-sf-outbound-message-with-curl/</guid>
+      <description>Recently I had an issue where a third party service which was receiving an outbound message was failing. Sadly Salesforce gives very little debugging information for outbound messaging if things go wrong (AFAIK you only get a single line in the Outbound Messaging monitoring list).
+So, it can be handy to fake the outbound message sent from Salesforce to your test endpoint so you can get a bit more information.</description>
+    </item>
+    
+    <item>
+      <title>Becoming a Salesforce.com Technical Architect</title>
+      <link>/becoming-a-salesforce-com-technical-architect/</link>
+      <pubDate>Thu, 14 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/becoming-a-salesforce-com-technical-architect/</guid>
+      <description>I presented the following at the Salesforce Developer User Group last night.
+SDUG Becoming a Salesforce.com Technical Architect **** from Steven Herod</description>
+    </item>
+    
+    <item>
+      <title>The 7 Apps that make up my information lifecycle</title>
+      <link>/the-7-apps-that-make-up-my-information-lifecycle/</link>
+      <pubDate>Mon, 11 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/the-7-apps-that-make-up-my-information-lifecycle/</guid>
+      <description>Since, in my opinion, all technical folk eventually evolve to giving lifestyle advice I figured I’d jump in early and get mine out of the way early :)
+Lately I’ve decided to be far more methodical with the consumption and redistribution of information I come across. Typically I would read articles and news in a fairly haphazard manner and then manually in inconsistently pass this on to others.
+Thanks to a combination of cloud based services and iPhone/iPad apps I’ve managed to consolidate my workflow into the diagram below.</description>
+    </item>
+    
+    <item>
+      <title>I am now a Salesforce Certified Technical Architect</title>
+      <link>/i-am-now-a-salesforce-certified-technical-architect/</link>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/i-am-now-a-salesforce-certified-technical-architect/</guid>
+      <description>Which is kind of a big thing in the world of Salesforce certifications. I am immensely happy to have achieved this benchmark.
+On related news that now means I hold all Salesforce certifications… although I fear they are inventing more of them as I speak. :)</description>
+    </item>
+    
+    <item>
+      <title>Salesforce — Best behind the scenes technology videos</title>
+      <link>/salesforce-best-behind-the-scenes-technology-videos/</link>
+      <pubDate>Mon, 28 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/salesforce-best-behind-the-scenes-technology-videos/</guid>
+      <description>My playlist of the most useful Salesforce technology presentation I’ve found on Youtube</description>
+    </item>
+    
+    <item>
+      <title>Object Access by Salesforce Portal License</title>
+      <link>/object-access-by-salesforce-portal-license/</link>
+      <pubDate>Thu, 24 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/object-access-by-salesforce-portal-license/</guid>
+      <description>Hopefully this is fairly self explanatory, as you move outwards more standard objects become available to you.
+This was drawn from the Salesforce License Types documentation here. If you have corrections, please let me know.
+  </description>
+    </item>
+    
+    <item>
+      <title>Melbourne Salesforce Platform Developer Users Group — 17 October 2012</title>
+      <link>/melbourne-salesforce-platform-developer-users-group-17-october-2012/</link>
+      <pubDate>Mon, 15 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/melbourne-salesforce-platform-developer-users-group-17-october-2012/</guid>
+      <description>Melbourne Salesforce Platform Developer Users Group is this Wednesday! meetu.ps/mKXfq #forcedotcom</description>
+    </item>
+    
+    <item>
+      <title>Invalid Session ID found in SessionHeader</title>
+      <link>/invalid-session-id-found-in-sessionheader/</link>
+      <pubDate>Fri, 28 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/invalid-session-id-found-in-sessionheader/</guid>
+      <description>Getting an error like this?
+SFDC ERROR - INSERT TASK:INVALID_SESSION_ID: Invalid Session ID found in SessionHeader: Illegal Session. Session not found, missing session key: 00DN00000001xpU!ARkAQHV.1RXn.Nr34RSaEyGaq.yzqctjLmw.lpDKqzwFrVl15eE5bd85y4KfeSJzf.t6Z.2U3nNmbeduA71dEeg.607Tqk2M\n Don’t worry, you have a valid session ID, but you’ve used it against an incorrect sandbox or Salesforce instance! I.e. You have executed a API login() call against test.salesforce.com and then on your subsequent call you’ve contacted cs5.salesforce.com instead of cs6.salesforce.com.
+This change in pod usually occurs after a sandbox refresh (Salesforce often moves sandboxes between pods after a refresh).</description>
+    </item>
+    
+    <item>
+      <title>Running Apex unit tests from the command line using Java</title>
+      <link>/running-apex-unit-tests-from-the-command-line-using-java/</link>
+      <pubDate>Mon, 13 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/running-apex-unit-tests-from-the-command-line-using-java/</guid>
+      <description>Below is a simple program I created that uses the Salesforce APIs to execute a list of unit test class names passed as arguments from the command line.
+To reproduce this work you will need the web services connector wsc.jar file, your Enterprise WSDL file and your Apex WSDL from your Salesforce organisation.
+First, use the wsc to generate your client side code:
+java -classpath wsc-22.jar com.sforce.ws.tools.wsdlc enterprise.wsdl enterprise.jar java -classpath wsc-22.</description>
+    </item>
+    
+    <item>
+      <title>Salesforce Technical Architect Certification — Cognitive Test</title>
+      <link>/salesforce-technical-architect-certification-cognitive-test/</link>
+      <pubDate>Wed, 08 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/salesforce-technical-architect-certification-cognitive-test/</guid>
+      <description>To be honest, this is probably the certification exam that I prepared the least for. I probably spent about 1–2 days just reading over SSO concepts, reading the Large Data Volume documentation and checking the capabilities and limits of the various integration APIs.
+The 60 Questions took around 45 minutes (In comparison, the Service and Sales cloud exams took me &amp;lt; 30 minutes or so). Here are my pointers:
+ Know why you do it one way, not just the what.</description>
+    </item>
+    
+    <item>
+      <title>Postgres on OSX Lion</title>
+      <link>/postgres-on-osx-lion/</link>
+      <pubDate>Fri, 25 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/postgres-on-osx-lion/</guid>
+      <description>Recently I was doing some work with RoR and needed to reset my password for the postgres that ships with OSX (9.1 it seems).
+This turned into a challenge finding a simple set of instructions!
+Editing the hba file
+sudo vi /Library/PostgreSQL/9.1/data/pg_hba.conf File should be modified so that the first line changes ‘md5’ to ‘trust’ to avoid it prompting for the current password.
+# &amp;quot;local&amp;quot; is for Unix domain socket connections only local all all trust #was &#39;md5&#39; Then you need to Postgres:</description>
+    </item>
+    
+    <item>
+      <title>Decoding Salesforce log files…</title>
+      <link>/decoding-salesforce-log-files/</link>
+      <pubDate>Wed, 18 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/decoding-salesforce-log-files/</guid>
+      <description>I’ve put together a simple ruby script for pulling the call stack out of a force.com debug log.
+You can find the code here https://github.com/sherod/Clarity</description>
+    </item>
+    
+    <item>
+      <title>Add the required indicator to your apex:inputText or apex:SelectRadio fields using jQuery</title>
+      <link>/add-the-required-indicator-to-your-apex-inputtext-or-apex-selectradio-fields-using-jquery/</link>
+      <pubDate>Fri, 16 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/add-the-required-indicator-to-your-apex-inputtext-or-apex-selectradio-fields-using-jquery/</guid>
+      <description>One of the frustrating aspects of salesforce is some of the UI element generation it does (and in this case, doesn’t do) for you.
+While &amp;lt;apex:inputField required=”true”&amp;gt; will add the standard salesforce required indicator (the red bar) to your page with no further effort, if you have to drop down to the lower level &amp;lt;apex:inputText required=”true”&amp;gt; tag, you’ll miss out on this help, leaving you to wrap your inputText field in various chunks of HTML in order to have Salesforce’s standard stylesheets into apply the appropriate look.</description>
+    </item>
+    
+    <item>
+      <title>Visibility/Enablement of Buttons on page layouts should be governed by formulas</title>
+      <link>/visibility-enablement-of-buttons-on-page-layouts-should-be-governed-by-formulas/</link>
+      <pubDate>Tue, 06 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/visibility-enablement-of-buttons-on-page-layouts-should-be-governed-by-formulas/</guid>
+      <description>On many page layouts I often have the need to place custom buttons and often these buttons are only valid in certain contexts, for instance, one should only be able to submit the data to an external service IF the data has a status of ‘Open’.
+Currently I have only four undesirable choices…
+ Replace the page layout with a custom visualforce page Place a guard on the target of the button to tell the user “You can’t do that because of x” Change the record type of the object and then have a custom page layout for that record type.</description>
+    </item>
+    
+    <item>
+      <title>Sales Cloud Consultant vs Service Cloud Consultant exams</title>
+      <link>/sales-cloud-consultant-vs-service-cloud-consultant-exams/</link>
+      <pubDate>Wed, 21 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/sales-cloud-consultant-vs-service-cloud-consultant-exams/</guid>
+      <description>A colleague summed up the difference like this, and I would tend to agree:
+ It seemed to me that the service cloud is more general on the industry practise and industry knowledge required whilst the sales cloud test was much more focused on actual implementation concepts and hardcore features of the salesforce sales module
+ </description>
+    </item>
+    
+    <item>
+      <title>More Tips for the 501 Advanced Developer Exam</title>
+      <link>/more-tips-for-the-501-advanced-developer-exam/</link>
+      <pubDate>Mon, 19 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/more-tips-for-the-501-advanced-developer-exam/</guid>
+      <description>The exam contains a lot of ambiguous questions and things like ‘Pick which of the three below are right, Which what is NOT true’.
+I remain unconvinced you can cram for it without having done a fair amount of real force.com development, normal force.com development and deployment should be something you ‘just know’ before cramming the specifics.
+Topics covered
+ Custom components, syntax for declaring and usage. Templating, syntax for declaring and usage.</description>
+    </item>
+    
+    <item>
+      <title>Talend vs Apex Dataloader — Bulk upload/Download benchmarks</title>
+      <link>/talend-vs-apex-dataloader-bulk-upload-download-benchmarks/</link>
+      <pubDate>Thu, 15 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/talend-vs-apex-dataloader-bulk-upload-download-benchmarks/</guid>
+      <description>Key Points  Both Data Loader and Talend use the same underlying APIs to Salesforce and have the same options (Batch size, compression enabling/disabling, use of bulk interface) There is little difference between Data Loader and Talend in overall performance There is a big difference between bulk vs non bulk upload and between using and not using compression. Salesforce is up to 2x faster at data retrievals than data inserts One constraint that has not been quantified is the effect of limited bandwidth on performance, it does matter, but I’m not sure how much.</description>
+    </item>
+    
+    <item>
+      <title>Helping you pass your 501 Advanced Developer Exam / Mock Assignment</title>
+      <link>/helping-you-pass-your-501-advanced-developer-exam-mock-assignment/</link>
+      <pubDate>Wed, 14 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/helping-you-pass-your-501-advanced-developer-exam-mock-assignment/</guid>
+      <description>Note, this blog entry has been revised as at Nov 10 2014 to include a different webservice and clearer requirements. The purpose of this blog entry is to describe a contrived business problem that exercises the topics covered in the 501 Developer exam.
+ProblemYou are the founder and CTO of your own company, WeatherForce.com and you have, for reasons known only to yourself, concluded that there is a market for a weather service which people interact with via email.</description>
+    </item>
+    
+    <item>
+      <title>Salesforce.com — Integration security best practices</title>
+      <link>/salesforce-com-integration-security-best-practices/</link>
+      <pubDate>Wed, 26 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/salesforce-com-integration-security-best-practices/</guid>
+      <description>View more presentations from Steven Herod</description>
+    </item>
+    
+    <item>
+      <title>Teething Troubles with Winter 12?</title>
+      <link>/teething-troubles-with-winter-12/</link>
+      <pubDate>Thu, 22 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/teething-troubles-with-winter-12/</guid>
+      <description>Winter 12 hit the sandboxes this week and we were hit by one particular problem and I’ve seen two other issues pop up as well.
+ http://boards.developerforce.com/t5/Apex-Code-Development/Invalid-session/td-p/336951 http://boards.developerforce.com/t5/Apex-Code-Development/Test-Method-Errors-DmlException-Ignored/m-p/338293#M59955 And an issue where related list hovers not showing on an apex:detail tag (You may be able to see the link here on Linked In —http://www.linkedin.com/groupItem?view=&amp;amp;gid=142613&amp;amp;type=member&amp;amp;item=71785968&amp;amp;qid=3405f155-f30a-4006-bd53-0444a8c2c7a7&amp;amp;goback=%2Egna_142613  I haven’t confirmed the last two, but I’ve experienced the first. Have you felt anything from the Winter 12 release?</description>
+    </item>
+    
+    <item>
+      <title>VMForce Live Blog.</title>
+      <link>/vmforce-live-blog/</link>
+      <pubDate>Mon, 29 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/vmforce-live-blog/</guid>
+      <description>I’m putting together a ‘real’ app on VMForce + Heroku, I’m keeping an informal ‘live blog’ here :)
+Maven
+Maven, for some reason, failed to download ‘jdo-api-3.1’, so I manually downloaded using Chrome from here: http://www.datanucleus.org/downloads/maven2/javax/jdo/jdo-api/3.1-SNAPSHOT-20110319/ and installed it with:
+C:\Users\sherod\Documents\workspace-sts-2.5.1.RELEASE&amp;gt;mvn install:install-file -DgroupId=javax.jdo -DartifactId=jdo-api -Dversion=3.1-SNAPSHOT-20110319 -Dpackag ing=jar -Dfile=C:\Users\sherod\Downloads\jdo-api-3.1-SNAPSHOT-20110319.jar STS
+If you followed the instructions and only set your FORCE_FORCEDATABASE password details at the command prompt, then that’s not going to help STS.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui.
+Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+Nulla vitae elit libero, a pharetra augue.</description>
+    </item>
+    
+  </channel>
+</rss>

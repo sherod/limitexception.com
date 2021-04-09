@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on limitexception.com</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on limitexception.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 11 Oct 2020 03:44:46 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>productivity</title>
+      <link>/categories/productivity/</link>
+      <pubDate>Sun, 11 Oct 2020 03:44:46 +0000</pubDate>
+      
+      <guid>/categories/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deepdive</title>
+      <link>/categories/deepdive/</link>
+      <pubDate>Thu, 01 Oct 2020 13:13:11 +0000</pubDate>
+      
+      <guid>/categories/deepdive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>architecture</title>
+      <link>/categories/architecture/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>musings</title>
+      <link>/categories/musings/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/musings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>developer</title>
+      <link>/categories/developer/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>howto</title>
+      <link>/categories/howto/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/howto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>career</title>
+      <link>/categories/career/</link>
+      <pubDate>Sun, 04 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/career/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

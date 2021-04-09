@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>musings on limitexception.com</title>
+    <link>/categories/musings/</link>
+    <description>Recent content in musings on limitexception.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/musings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another 7 habits for developing a Technical Architect Mindset</title>
+      <link>/another-7-habits-for-developing-a-technical-architect-mindset/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/another-7-habits-for-developing-a-technical-architect-mindset/</guid>
+      <description>Decisions are not dichotomies of either/or.
+It’s not clicks or code, its clicks and code, or clicks at first, and then replacement with…</description>
+    </item>
+    
+    <item>
+      <title>Are we nearing the end of the ‘Full Stack’ Salesforce Developer?</title>
+      <link>/are-we-nearing-the-end-of-the-full-stack-salesforce-developer/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/are-we-nearing-the-end-of-the-full-stack-salesforce-developer/</guid>
+      <description>Anyone who works in the Salesforce ecosystem is familiar with the traditional role breakdown that Salesforce portrays in its marketing and…</description>
+    </item>
+    
+    <item>
+      <title>Why I didn’t give up some app on my iPhone.</title>
+      <link>/why-i-didn-t-give-up-some-app-on-my-iphone/</link>
+      <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/why-i-didn-t-give-up-some-app-on-my-iphone/</guid>
+      <description>It’s quite popular to write a blog post with a headline like ‘why I gave up &amp;lt;app name’, as though the app itself was something akin to…</description>
+    </item>
+    
+    <item>
+      <title>Virtual or Augmented Reality, which tech is the future?</title>
+      <link>/virtual-or-augmented-reality-which-tech-is-the-future/</link>
+      <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/virtual-or-augmented-reality-which-tech-is-the-future/</guid>
+      <description>On a recent visit to Melbourne I had the opportunity to participate in one of Accenture’s regular innovation showcases. Two of the elements…</description>
+    </item>
+    
+    <item>
+      <title>Why you won’t find any Salesforce Interview Questions (with Answers) here.</title>
+      <link>/why-you-won-t-find-any-salesforce-interview-questions-with-answers-here/</link>
+      <pubDate>Sun, 04 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/why-you-won-t-find-any-salesforce-interview-questions-with-answers-here/</guid>
+      <description>Ideally a job interview is an opportunity for you to demonstrate your knowledge and to convince your prospective employer you have the right attitude, the right knowledge and the right experience to fulfill their requirements.
+One hopes that each new position should be some kind of advancement, either in salary or responsibility (or ideally both).
+Naturally there is competition in this process from other candidates, this competition and your own internal doubt can and should drive you to prepare for an interview so you can present your best self when the time comes.</description>
+    </item>
+    
+  </channel>
+</rss>

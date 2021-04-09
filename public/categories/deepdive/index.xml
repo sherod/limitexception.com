@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deepdive on limitexception.com</title>
+    <link>/categories/deepdive/</link>
+    <description>Recent content in deepdive on limitexception.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 01 Oct 2020 13:13:11 +0000</lastBuildDate><atom:link href="/categories/deepdive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Professional Development with AWS</title>
+      <link>/using-aws-for-personal-networking/</link>
+      <pubDate>Thu, 01 Oct 2020 13:13:11 +0000</pubDate>
+      
+      <guid>/using-aws-for-personal-networking/</guid>
+      <description>The History For 21 years I&amp;rsquo;ve hosted my personal website and miscellaneous experiments on Dreamhost.
+Dreamhost was where I first setup my website. My sites and content there have survived countless life milestones. I started out hosting private projects in HTML built in Microsoft Frontpage, HotDog, Macromedia Dreamweaver. From then I moved on to teaching myself PHP, building basic content management systems before the days of Wordpress.
+For many, many years it languished.</description>
+    </item>
+    
+    <item>
+      <title>Salesforce Platform Events, a quick dive into EventBus.RetryableException</title>
+      <link>/salesforce-platform-events-a-quick-dive-into-eventbus-retryableexception/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/salesforce-platform-events-a-quick-dive-into-eventbus-retryableexception/</guid>
+      <description>In Summer 17 Salesforce release the beta of what was, for me, a much awaited feature — Platform Events.</description>
+    </item>
+    
+  </channel>
+</rss>

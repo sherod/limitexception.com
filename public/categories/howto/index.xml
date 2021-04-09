@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>howto on limitexception.com</title>
+    <link>/categories/howto/</link>
+    <description>Recent content in howto on limitexception.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 26 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="/categories/howto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running the Force.com CLI and PMD for a quick quality check</title>
+      <link>/running-the-force-com-cli-and-pmd-for-a-quick-quality-check/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/running-the-force-com-cli-and-pmd-for-a-quick-quality-check/</guid>
+      <description>Install the force.com CLI, confirm it runs from your current working directory by running ‘force’</description>
+    </item>
+    
+    <item>
+      <title>Mass Unfollowing People on LinkedIn</title>
+      <link>/mass-unfollowing-people-on-linkedin/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/mass-unfollowing-people-on-linkedin/</guid>
+      <description>I’m a believer in LinkedIn. I find it useful on a personal and professional level and I have viewed it as a useful newsfeed over many…</description>
+    </item>
+    
+    <item>
+      <title>Dreamforce tips in 3 bullet points</title>
+      <link>/dreamforce-tips-in-3-bullet-points/</link>
+      <pubDate>Thu, 18 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/dreamforce-tips-in-3-bullet-points/</guid>
+      <description>Have specific goals for the event.  What can you learn.  Plan your must see events and organise your agenda around those events.  There is SO MUCH on, going in without a game plan will mean you’ll miss everything.  Comfortable shoes and some painkillers.  You’ll do a lot of walking and standing :)  </description>
+    </item>
+    
+  </channel>
+</rss>
